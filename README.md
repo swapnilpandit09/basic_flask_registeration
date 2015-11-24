@@ -7,3 +7,7 @@ After cloning project.
 To run the project
 
 - python basic_app.py
+
+then 
+
+-http://localhost:5000
